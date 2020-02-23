@@ -28,7 +28,7 @@ How to succeed:
 
 Get the highest score possible.
 
-TIP: Balance getting the resources that get the most points with the ones that are closest to being depleted.
+TIP: Balance getting resources that give the highest quantity for each collection with the ones that are closest to being depleted.
 
 ## Built With
 
