@@ -43,4 +43,4 @@ TIP: Balance getting the resources that get the most points with the ones that a
 
 Matthes, Eric (2019) Python Crash Course (2nd edition) 
 
-Used the examples as a template for the project's code. 
+Used the examples in the pygame project as a template for the game's code. 
