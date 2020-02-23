@@ -7,13 +7,13 @@ A simple and fun game created for a high school project to bring awareness to em
 ## How to play:
 
 The objective of this game is to keep the community alive for as long 
-as possible by delivering resources to the residential area that are obtained 
+as possible by delivering resources to the residential area. The resources are obtained 
 from the warehouse.
-The game takes place in the aftermath of a storm, and all resources are needed to survive.
+The game takes place in the aftermath of a storm, and all resources are needed for the town to survive.
 Each resource is worth a number of points that increases as the game goes on.
-The difficult of the game and the depletion of resources becomes greater as well.
+The difficulty of the game and the rate of the depletion of resources increases as well.
 
-If one of the resources reaches 0, you have failed but have the ability to restart the game.
+If one of the resources reaches 0, you have failed but you can easily restart the game.
 
 ![Title Screen](src/resources/savethecitytitle.png)
 
