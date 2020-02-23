@@ -13,7 +13,7 @@ The game takes place in the aftermath of a storm, and all resources are needed t
 Each resource is worth a number of points that increases as the game goes on.
 The difficult of the game and the depletion of resources becomes greater as well.
 
-If one of the resources reaches 0, you have failed and have the ability to restart.
+If one of the resources reaches 0, you have failed but have the ability to restart the game.
 
 How to control:
 
