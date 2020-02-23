@@ -8,7 +8,7 @@ class Button:
         pygame.font.init()
         myfont = pygame.font.SysFont('impact', 30)
         self.title_surface = myfont.render("Save the City: A Game About Being Prepared", False, (204, 0, 0))
-        self.name_surface = myfont.render("Made by Andrew Bush", False, (204, 0, 0))
+        self.name_surface = myfont.render("Made by Willow560", False, (204, 0, 0))
 
         self.screen = ai_game.screen
         self.screen_rect = self.screen.get_rect()
