@@ -15,7 +15,7 @@ The difficult of the game and the depletion of resources becomes greater as well
 
 If one of the resources reaches 0, you have failed but have the ability to restart the game.
 
-![Title Screen](src/resources/titlescreen.png)
+![Title Screen](src/resources/savethecitytitle.png)
 
 How to control:
 
