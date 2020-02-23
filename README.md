@@ -27,6 +27,7 @@ Control the FEMA worker with the arrow keys.
 How to succeed:
 
 Get the highest score possible.
+
 TIP: Balance getting the resources that get the most points with the ones that are closest to being depleted.
 
 ## Built With
