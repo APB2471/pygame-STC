@@ -36,7 +36,7 @@ TIP: Balance getting the resources that get the most points with the ones that a
 
 * [Pygame] (https://www.pygame.org)
 
-##
+## Authors
 * **Willow560**
 
 ## Acknowledgments
