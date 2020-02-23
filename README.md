@@ -2,7 +2,7 @@
 
 SAVE THE CITY 
 
-A simple and fun game created for a high school project to bring awareness to emergency preparation. 
+A simple and fun game created to bring awareness to emergency preparation. 
 
 ## How to play:
 
