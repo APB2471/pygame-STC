@@ -4,10 +4,7 @@ SAVE THE CITY
 
 A simple and fun game created for a high school project to bring awareness to emergency preparation. 
 
-
-GAME GUIDE
-
-How to play:
+## How to play:
 
 The objective of this game is to keep the community alive for as long 
 as possible by delivering resources to the residential area that are obtained 
