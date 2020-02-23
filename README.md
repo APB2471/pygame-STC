@@ -31,3 +31,16 @@ How to succeed:
 
 Get the highest score possible.
 TIP: Balance getting the resources that get the most points with the ones that are closest to being depleted.
+
+## Built With
+
+* [Pygame] (https://www.pygame.org)
+
+##
+* **Willow560**
+
+## Acknowledgments
+
+Matthes, Eric (2019) Python Crash Course (2nd edition) 
+
+Used the examples as a template for the project's code. 
